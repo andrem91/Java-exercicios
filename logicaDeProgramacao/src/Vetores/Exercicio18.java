@@ -7,7 +7,7 @@ package Vetores;
 
 import java.util.Scanner;
 
-public class exercicio18 {
+public class Exercicio18 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
