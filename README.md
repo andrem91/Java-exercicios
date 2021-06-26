@@ -1,6 +1,6 @@
 # Exerícios resolvidos em Java
 
-Repositório feito para documentar **exercícios** e desafios em **Java** de lógica de programação, algorirmos e orientação a objetos.
+Repositório feito para documentar **exercícios** e desafios em **Java** de lógica de programação e algorirmos.
 
 ## Lógica de programação
 
